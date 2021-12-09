@@ -1,1 +1,3 @@
-# mark_eight_emoji_Interpretor
+# Emoji Interpretor
+
+An app which tells the meaning of your emoji and viceversa
